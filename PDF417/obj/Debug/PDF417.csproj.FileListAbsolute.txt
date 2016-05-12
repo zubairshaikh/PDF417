@@ -1,0 +1,5 @@
+D:\Dev\XCMaas-master\DWaaS\PDF417\obj\Debug\PDF417.csprojResolveAssemblyReference.cache
+D:\Dev\XCMaas-master\DWaaS\PDF417\bin\Debug\PDF417.dll
+D:\Dev\XCMaas-master\DWaaS\PDF417\bin\Debug\PDF417.pdb
+D:\Dev\XCMaas-master\DWaaS\PDF417\obj\Debug\PDF417.dll
+D:\Dev\XCMaas-master\DWaaS\PDF417\obj\Debug\PDF417.pdb
